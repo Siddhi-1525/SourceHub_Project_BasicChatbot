@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Web Chatbot using Flask
-Made for TYBScIT Project
-By: Student
-Date: 13/3/2023
-"""
-
 import random
 from datetime import datetime
 from flask import Flask, request, jsonify, render_template_string
